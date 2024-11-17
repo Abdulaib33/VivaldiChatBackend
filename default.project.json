@@ -23,6 +23,14 @@
       }
     },
 
+    "StarterGui": {
+      "$className": "StarterGui",
+      "ScreenGui": {
+        "$className": "ScreenGui",
+        "$path": "src/StarterGui/ScreenGui"
+      }
+    },
+
     "Workspace": {
       "$properties": {
         "FilteringEnabled": true
@@ -50,6 +58,7 @@
         }
       }
     },
+
     "Lighting": {
       "$properties": {
         "Ambient": [
@@ -63,6 +72,7 @@
         "Technology": "Voxel"
       }
     },
+
     "SoundService": {
       "$properties": {
         "RespectFilteringEnabled": true
